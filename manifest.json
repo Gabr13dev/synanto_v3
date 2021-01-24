@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "name": "Synanto",
+  "short_name": "Synanto",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "",
+  "background_color": "#fff",
+  "theme_color": "#fff"
+}
